@@ -2,3 +2,6 @@ h1 {
   background-color: rgb(255, 119, 0);
   color: chartreuse;
 }
+body {
+  background-color: aqua;
+}
